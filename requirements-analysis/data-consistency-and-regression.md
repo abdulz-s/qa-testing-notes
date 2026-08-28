@@ -14,7 +14,7 @@ This created a data consistency problem because both versions were expected to r
 
 ## QA Approach
 
-When testing a redesigned page or feature, I should not only check whether the new interface looks correct. I should also verify that important existing functionality and data still behave correctly.
+When testing a redesigned page or feature, I did not only check whether the new interface looks correct. I also verify that important existing functionality and data still behave correctly.
 
 ### Comparison scenarios
 
